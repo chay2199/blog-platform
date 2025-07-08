@@ -1,4 +1,4 @@
-# Blogging Platform
+# Blog Platform
 
 ## Setup
 
